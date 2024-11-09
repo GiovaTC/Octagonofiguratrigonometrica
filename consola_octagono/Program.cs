@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int size = 5; // Tamaño del octágono
+        int size = 15; // Tamaño del octágono
         PrintOctagon(size);
     }
 
